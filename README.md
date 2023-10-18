@@ -1,2 +1,2 @@
 # DataqSDK
-DataqSDK ActiveX module
+DataqSDK ActiveX module without LogFile
